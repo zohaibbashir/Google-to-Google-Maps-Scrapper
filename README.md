@@ -27,6 +27,9 @@ This Python script utilizes the Chromium to perform web scraping and data extrac
 
 - CSV Export: The cleaned data is exported to a CSV file for further analysis or integration with other tools.
 
+This is how it works 
+![Visual of how the code works](Pic.png)
+
 ## Installation
 
 1. Clone this repository:
